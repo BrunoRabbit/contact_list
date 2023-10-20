@@ -9,11 +9,16 @@ Aplicativo extremamente simples para a plataforma da Dio onde o usuario pode adi
 
 ## Checklist do Desafio
 
-- [x] Criar um banco de dados
-- [x] Fazer um cadastro de pessoa com foto de perfil​
-- [x] Salvar apenas o path da imagem na base de dados​
-- [x] Listar as pessoas em uma lista com sua respectiva foto​
-- [x] Usar os outros componentes aprendidos
+✔️ Criar um banco de dados
+
+✔️ Fazer um cadastro de pessoa com foto de perfil​
+
+✔️ Salvar apenas o path da imagem na base de dados​
+
+✔️ Listar as pessoas em uma lista com sua respectiva foto​
+
+✔️ Usar os outros componentes aprendidos
+
 
 ## Imagem do app finalizado
 
