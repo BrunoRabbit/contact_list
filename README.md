@@ -1,16 +1,30 @@
 # contact_list
 
-A new Flutter project.
+Aplicativo extremamente simples para a plataforma da Dio onde o usuario pode adicionar, remover e editar contatos.
 
-## Getting Started
+- Ferramentas
+  - sqflite
+  - flutter
+  - dart
 
-This project is a starting point for a Flutter application.
+## Checklist do Desafio
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Criar um banco de dados
+- [x] Fazer um cadastro de pessoa com foto de perfil​
+- [x] Salvar apenas o path da imagem na base de dados​
+- [x] Listar as pessoas em uma lista com sua respectiva foto​
+- [x] Usar os outros componentes aprendidos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Imagem do app finalizado
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Exemplo de contatos listados
+
+![app_home](image.png)
+
+- Exemplo ao editar contatos
+
+![edit_contacts](image-1.png)
+
+- Exemplo logo depois de editar e excluir
+
+![home_after_edit_and_delete](image-2.png)

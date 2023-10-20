@@ -110,7 +110,7 @@ class _EditUserState extends State<EditUser> {
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
-        child: Column(
+        child: ListView(
           children: [
             TextFieldWidget(nameEC, 'Nome'),
             const SizedBox(
